@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My name is Theo Ko and I am majoring in Computer Science and Computational and Applied Mathematics at the University of Chicago. 
+
+
 <!--
 **theodora-yko/theodora-yko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
