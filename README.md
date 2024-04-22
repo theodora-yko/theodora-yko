@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name is Theo Ko. 
-I am a rising third year student at the University of Chicago, majoring in Computer Science and Computational and Applied Mathematics. 
+I am a Fourth year student at the University of Chicago, majoring in Computational and Applied Mathematics and Statistics. 
 
 [Connect with me!](https://www.linkedin.com/in/theodora-ko/)
 
