@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 My name is Theo Ko. 
-I graduated from the University of Chicago with a B.S. in Computational and Applied Mathematics and a concurrent M.S. in Statistics.  
-
+I graduated from the University of Chicago with a B.S. in Computational and Applied Mathematics and a concurrent M.S. in Statistics in June 2024.
+Now, I work as a Machine Learning Engineer at an InsurTech startup in Boston. 
+In my free time, I love practicing yoga & going to concerts! 
 [Connect with me!](https://www.linkedin.com/in/theodora-ko/)
 
 
