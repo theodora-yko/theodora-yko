@@ -1,9 +1,9 @@
 ### Hey!
 
-I'm Theodora, but my friend calls me Theo. I graduated from the University of Chicago with a concurrent M.S. in Statistics in June 2024 and a B.S. in Computational and Applied Mathematics. I have some really random hobbies (like walking the Camino!), but on top of everything, I also like learning new things and hope I stay that way. 
+I'm Theodora, but my friend calls me Theo. I graduated from the University of Chicago with a concurrent M.S. in Statistics and a B.S. in Computational and Applied Mathematics in June 2024. I have some really random hobbies (like walking the Camino!), but on top of everything, I also like learning new things and hope I stay that way. 
 
 - Books I am reading in 2026: The Myth of Sisyphus, The Art of Loving, Educated, The Count of Monte Cristo 
-- TV shows I've been loving in 2026: The Rookie, Blindspot
+- TV shows I've been loving in 2026: The Rookie, Blindspot, B99 (forever fav)
 <!--[Connect with me!](https://www.linkedin.com/in/theodora-ko/)-->
 
 
